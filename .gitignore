@@ -1,0 +1,20 @@
+.vs/
+.build/
+x64/
+bin/
+obj/
+Generated Files/
+packages/
+*.user
+*.suo
+*.log
+*.pdb
+.hudes-donate-welcome
+hudes.db.json*
+salif.db.json*
+*.salifdb
+*.hudesdb
+ShortcutIcons/
+logo/
+self-test-results.txt
+resource-test-results.txt
