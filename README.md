@@ -1,11 +1,13 @@
-# Hudes
+# Hudes – file manager and file organizer for Windows 11
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Assets/hudes-logo-dark.svg">
   <img src="Assets/hudes-logo.svg" alt="Hudes" width="250">
 </picture>
 
-Hudes is a Windows file manager for people who keep track of work by folder. Choose a folder as your Desktop, then give its files notes, tags, a group, or a reminder. You can still browse the rest of your PC from the same window.
+Hudes is a free, open-source Windows desktop app for organizing files with notes, tags, groups, and reminders. Choose a folder as your workspace, link a note to related files, or filter a project by tag. A virtual archive keeps the original paths intact. You can still browse the rest of your PC from the same window.
+
+[Explore Hudes and try the tag demo](https://huravat.github.io/Hudes-1.2.9s/) · [Download the Windows installer](https://github.com/HurAvAt/Hudes-1.2.9s/releases/download/v1.2.9s/Hudes-1.2.9s-donate-win-x64.msi) · [Download the portable ZIP](https://github.com/HurAvAt/Hudes-1.2.9s/releases/download/v1.2.9s/Hudes-1.2.9s-donate-win-x64.zip)
 
 ## Getting started
 
